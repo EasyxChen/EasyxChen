@@ -1,3 +1,3 @@
 **Intro**
-- beginner to use github
+- beginner on github
 - experienced in wind power and mask aligner
